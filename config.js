@@ -6,10 +6,10 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
+global.owner = [epic_madizm
   ['917605902011', 'GURU', true],
   ['6281255369012', 'Ash', true], 
-  [''] 
+  ['7012064480'] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
